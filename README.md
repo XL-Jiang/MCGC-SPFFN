@@ -8,8 +8,13 @@ Code for Self-Perceptive Feature Fusion Network with Multi-Channel Graph Convolu
 (3) The channel diversity and scale correlation constraints were implemented to thoroughly investigate the latent relationships among features.
 # Requirement
 pytorch 2.1.0
+
 python 3.11.5
+
 cuda 12.1
+
 numpy 1.26.2
+
 pandas 2.1.3
+
 scikit-learn 1.3.2
