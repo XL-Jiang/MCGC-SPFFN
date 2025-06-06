@@ -1,6 +1,9 @@
 # MCGC-SPFFN
 Code for Self-Perceptive Feature Fusion Network with Multi-Channel Graph Convolution for Brain Disorder Diagnosis.
 
+![Uploading image.png…]()
+
+
 (1) The edges were adaptively constructed by the adaptive edge learning network (AELN), which captures the subtle discrepancies of graphs.
 
 (2) A self-perceptive feature fusion (SPFF) module, which includes an accuracy-weighted voting strategy for fusing features within the same channel, and a multi-head cross-attention mechanism for fusing multi-scale features. 
